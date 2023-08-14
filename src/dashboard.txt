@@ -1,0 +1,38 @@
+
+Admin dashboard ----Angular project----work flow
+
+
+
+
+   1.create project-------- ng new admin-dashboard
+   2.Run project---------ng serve/s 
+   3.Install third party libraries
+                      -angular material
+
+
+
+   4.To use any component from material copy the API from particular component. and past it in app module.
+   5.Generate component.
+             
+             --header
+             --footer
+             --side background
+             --dashboard
+                   --card 
+                   --area chart
+                   --table
+                   --piechart
+                        --employee
+                        --gallery
+                        --contact
+                        --leads
+
+ 6. @output :---output decorator ---- child to parent data communication .@output used in a child
+ 7.@input:parent to child data communication.
+ 8.attribute directive :[ngClass] 
+
+
+
+
+
+
